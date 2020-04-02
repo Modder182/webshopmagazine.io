@@ -1,0 +1,14 @@
+button {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 60%;
+    background-color: aquamarine;
+}
+
+a{
+    position: absolute;
+    margin: 100px auto;
+    left: 2%;
+}
+
+/*# sourceMappingURL=/main.c52e0fe2.css.map */
